@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "that is a web application of to-do-list",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "to-do-list"
+  },
+  "author": "kaushik_to_do",
+  "license": "ISC"
+}
